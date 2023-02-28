@@ -1,0 +1,1 @@
+Has a demon friend, Satara, that looks like a weasel in it's normal form.

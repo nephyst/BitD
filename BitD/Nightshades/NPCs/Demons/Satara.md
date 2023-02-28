@@ -1,0 +1,1 @@
+A talking weasel that moved into [[The Dockhouse]] after they helped chase out [[The Red Sashes]].

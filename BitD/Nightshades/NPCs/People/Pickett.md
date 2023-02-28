@@ -1,0 +1,1 @@
+Second in command of [[The Lampblacks]].
