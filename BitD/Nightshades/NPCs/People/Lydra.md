@@ -1,0 +1,1 @@
+A deal broker who initially introduced the guild to [[Bazso Baz]]. Lydra was the hook that brought the crew into  [[4 - Sailing Outside the Barrier]].

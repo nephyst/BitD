@@ -1,1 +1,1 @@
-Edward Horsby is a Professor at ?? University, where he taught [[Sid Sage]] and [[Tael Templeton]].
+Edward Horsby is a Professor at [[Charterhall University]], where he taught [[Sid Sage]] and [[Teal Templeton]].

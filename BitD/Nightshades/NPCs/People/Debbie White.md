@@ -1,1 +1,1 @@
-A physicker that did not give any information on us when interviewed by [[The Bluecoats]].
+A physicker that helps tend to the crews wounds. Debbie was questioned by [[The Bluecoats]] at the end of [[2 - Imperial Building Techniques Vol. 1]] but they gained no information about the crew.

@@ -8,18 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc499830b8ffdd46",
+            "id": "7bad44f343afcae3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightshades/Sessions/3 - The Dockhouse.md",
+                "file": "Nightshades/NPCs/People/Professor Edward Hornsby.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32bdb85953c95d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "999927be5b961169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e42ba2ba35ba568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c40a29fce26c3c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e03c599a2ddde7eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5c9e17c9940656b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nightshades/Sessions/3 - The Dockhouse.md",
+                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nightshades/Sessions/3 - The Dockhouse.md",
+                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nightshades/Sessions/3 - The Dockhouse.md"
+                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md"
               }
             }
           }
@@ -146,17 +219,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93e3d869b0e91337",
+  "active": "e03c599a2ddde7eb",
   "lastOpenFiles": [
-    "Nightshades/Factions/The Lampblacks.md",
     "Nightshades/Sessions/3 - The Dockhouse.md",
-    "Nightshades/PCs/Grey Dunvil.md",
-    "Nightshades/NPCs/People/Professor Edward Hornsby.md",
-    "Nightshades/NPCs/Demons/Satara.md",
-    "Nightshades/PCs/Sid Sage.md",
-    "Nightshades/NPCs/People/Pickett.md",
-    "Nightshades/NPCs/People/Bazso Baz.md",
     "Nightshades/Sessions/2 - Imperial Building Techniques Vol. 1.md",
-    "Nightshades/NPCs/People/Bell.md"
+    "Nightshades/Sessions/1 - Burnout.md",
+    "Nightshades/NPCs/People/Bell.md",
+    "Nightshades/PCs/Nyx Smoak.md",
+    "Nightshades/NPCs/People/Ulf Ironborn.md",
+    "Nightshades/Factions/The Red Sashes.md",
+    "Nightshades/Factions/The Lampblacks.md",
+    "Nightshades/NPCs/People/Bazso Baz.md",
+    "Nightshades/PCs/Grey Dunvil.md",
+    "Nightshades/Locations/Silkshore.md",
+    "Nightshades/Factions/The Foghounds.md",
+    "Nightshades/Factions/The Crows.md",
+    "Nightshades/Factions/The Bluecoats.md",
+    "Nightshades/Locations/The Lair.md",
+    "Nightshades/Locations/The Dockhouse.md",
+    "Nightshades/Locations/Ilysia.md",
+    "Nightshades/Locations/Deathwall Citadel.md",
+    "Nightshades/Locations/Charterhall University.md",
+    "Nightshades/Sessions/5 - The Mirroed Cube.md",
+    "Nightshades/PCs/Sid Sage.md",
+    "Nightshades/NPCs/People/Ojak.md",
+    "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
+    "Nightshades/Drug$/Go-Glo.md",
+    "Nightshades/PCs/Teal Templeton.md",
+    "Nightshades/Drug$/Burnout.md",
+    "Nightshades/Drug$",
+    "Nightshades/NPCs/Ghosts"
   ]
 }

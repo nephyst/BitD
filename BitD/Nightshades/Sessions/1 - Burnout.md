@@ -1,12 +1,12 @@
 ## The Drug Deal
 
-We got in contact with a small time drug runner in `Crow's Foot` named [[Bazso Baz]]. He gave us a job to move some `Burnout`, a drug that boosts memory short term memory. Sid and Teal used their connection to to [[Professor Edward Hornsby]] at the ??? University to sell to professors, and potentially students.
+We got in contact with a small time drug runner in `Crow's Foot` named [[Bazso Baz]]. He gave us a job to move some `Burnout`, a drug that boosts memory short term memory. Sid and Teal used their connection to to [[Professor Edward Hornsby]] at the [[Charterhall University]] University to sell to professors, and potentially students.
 
 Flashback: We prepped samples of the drug and small gift bags to give out to the party.
 
 A couple of `bluecoats` arrived. Sid answered the door and fumbled over his words drawing suspicious on the party, starting a suspicion clock.
 
-Nyx stayed outside and kept watch for t[[The Bluecoats]], or any other suspicious activity.
+Nyx stayed outside and kept watch for [[The Bluecoats]], or any other suspicious activity.
 
 A student at the party passed out. Sid and tael acted quickly, drawing the party goers into another part of the hosue where Sid put on a show using trick cards and dice. Sid sampled some Burnout and gave a performance that wowed the potential customers.
 
@@ -22,5 +22,4 @@ On the way back [[Bell]] from [[The Crows]] ambushed us and made us pay 1 coin a
 
 ## Downtime
 
-Sid and Tess started to track down basic alchemical tools.
-Tael started researching ingredients for a new euphoric drug.
+Sid and Tess started to track down basic alchemical tools. Tael started researching ingredients for a new euphoric drug.
