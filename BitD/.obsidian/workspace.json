@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightshades/Sessions/6.5 - A Heist out of Time!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e192ee2bf91ba4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nightshades/Sessions/6 - Sid is missing.md",
+                "file": "Nightshades/Sessions/7.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nightshades/Sessions/6 - Sid is missing.md",
+                "file": "Nightshades/Sessions/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nightshades/Sessions/6 - Sid is missing.md",
+                "file": "Nightshades/Sessions/7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nightshades/Sessions/6 - Sid is missing.md"
+                "file": "Nightshades/Sessions/7.md"
               }
             }
           }
@@ -191,35 +179,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e192ee2bf91ba4e",
+  "active": "9499f91b2690de5f",
   "lastOpenFiles": [
+    "Nightshades/NPCs/People/Elstera Avrathi.md",
+    "Nightshades/Sessions/7.md",
     "Nightshades/Sessions/6.5 - A Heist out of Time!.md",
-    "Nightshades/NPCs/People/Arib Chafik.md",
+    "2023-07-17.md",
+    "Untitled.canvas",
     "Nightshades/Sessions/6 - Sid is missing.md",
+    "Nightshades/Sessions/5 - The Mirroed Cube.md",
+    "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
+    "Nightshades/Sessions/3 - The Dockhouse.md",
+    "Nightshades/PCs/Tesslyn Comber.md",
+    "Nightshades/Drug$/Feel Good.md",
+    "Nightshades/Drug$/Go-Glo.md",
+    "Nightshades/Factions/The Bluecoats.md",
+    "Nightshades/Factions/The Crows.md",
+    "Nightshades/Factions/The Foghounds.md",
+    "Nightshades/Factions/The Ironborn Crew.md",
+    "Nightshades/Factions/The Hive.md",
+    "Nightshades/Factions/The Lampblacks.md",
+    "Nightshades/Factions/The Nightshades.md",
+    "Nightshades/Factions/The Red Sashes.md",
+    "Nightshades/Locations/Charterhall University.md",
+    "Nightshades/Locations/Deathwall Citadel.md",
+    "Nightshades/Locations/Ilysia.md",
+    "Nightshades/Locations/The Dockhouse.md",
+    "Nightshades/Locations/Silkshore.md",
+    "Nightshades/Locations/The Lair.md",
     "Larry.png",
     "Commander Horror.png",
-    "Nightshades/PCs/Sid Sage.md",
-    "Nightshades/Sessions/Untitled.md",
-    "Nightshades/NPCs/People/Debbie White.md",
-    "Nightshades/Factions/The Nightshades.md",
-    "Nightshades/Sessions/5 - The Mirroed Cube.md",
-    "Nightshades/NPCs/People/Nara Jayan.md",
-    "Nightshades/NPCs/People/Ulf Ironborn.md",
-    "Nightshades/NPCs/People/Professor Edward Hornsby.md",
-    "Nightshades/NPCs/People/Pickett.md",
-    "Nightshades/NPCs/People/Ojak.md",
-    "Nightshades/NPCs/People/Lydra.md",
-    "Nightshades/Factions/The Crows.md",
-    "Nightshades/NPCs/People/Bell.md",
-    "Nightshades/NPCs/Demons/Satara.md",
-    "Nightshades/Locations/Charterhall University.md",
-    "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
-    "Nightshades/PCs/Grey Dunvil.md",
-    "Nightshades/PCs/Nyx Smoak.md",
-    "Nightshades/Sessions/3 - The Dockhouse.md",
-    "Nightshades/Sessions/2 - Imperial Building Techniques Vol. 1.md",
-    "Nightshades/Sessions/1 - Burnout.md",
-    "Nightshades/Factions/The Red Sashes.md",
     "Nightshades/Drug$",
     "Nightshades/NPCs/Ghosts"
   ]

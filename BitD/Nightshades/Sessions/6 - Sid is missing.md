@@ -15,3 +15,7 @@ The crew sets up a series of visually stunning explosions that force the carriag
 A guard inside points his sword at the prisoner as Miriam asks if he wants to do this the hard way. Miriam distracts the guard by pointing to the corner. As soon as the guard turns, Miriam uses a vial of slumber essence to put him to sleep. [[Miriam Blackwood]] uncovers [[Sid Sage]]'s face, finding him unconscious, and carries him to the getaway carriage. [[Nyx Smoak]] helps [[Teal Templeton]] hobble over. [[Nyx Smoak]] uses smelling salts to wake [[Sid Sage]] up and tells him he needs to drive.
 
 [[Teal Templeton]] gives the goats some [[Go-Glo]] and their eyes turn green as they take off down the alley. [[Sid Sage]] barely manages to keep control as it whips through the town. [[Nyx Smoak]] attunes to the goats, showing hands coming from the goats pushing them along while more hands come down from the sky petting the goats heads. The arms pet [[Nyx Smoak]] as she feels the air temperature drop around her. The clouds lower and turn a spectral green color. [[Nyx Smoak]] glances over at [[Miriam Blackwood]] with a comfortable terrified look, and [[Miriam Blackwood]] returns the same expression with a little added confusion.
+
+## Downtime
+
+The crew acquired a demon flatigator named [[Steve Grey]]. [[Sid Sage]] made progress on [[Feel Good]].

@@ -10,4 +10,6 @@ The crew met up at a shed near the Dockhouse. [[Teal Templeton]] and [[Nyx Smoak
 
 As [[Kamelin]] appears [[Tesslyn Comber]] ran outside; [[Teal Templeton]] froze behind some boxes; [[Sid Sage]] resisted the ghostly presence; and [[Nyx Smoak]] calmly negotiated. [[Kamelin]] asked the crew to kill [[The Red Sashes]]'s whisperer in return, but [[Nyx Smoak]] declined. [[Kamelin]] agreed to help anyway, scaring away [[The Red Sashes]]'s crew. The Sashes wanted to get rid of the problem quickly, selling it to us for only 1 coin. When word got around about them abandoning it they got angry and accused us for taking advantage of them.
 
+## Downtime
+
 [[Sid Sage]] started a long term project to get a demon flatigator as a house pet. [[Tesslyn Comber]] started the process to hire a physicker for the crew.

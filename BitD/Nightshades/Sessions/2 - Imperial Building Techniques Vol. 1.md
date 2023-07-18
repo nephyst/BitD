@@ -1,4 +1,4 @@
-The Professor asked the Crew to obtain a good quality copy of the Imperial Building Techiques Vol 1 from [[The Foghounds]]. He provided a warehouse where he expected the book to be found.
+The Professor asked the Crew to obtain a good quality copy of the Imperial Building Techniques Vol 1 from [[The Foghounds]]. He provided a warehouse where he expected the book to be found.
 
 The crew decided to go in stealth, finding a ladder around back and using it to climb onto the roof to entered through an open window. They drug the ladder onto the roof to cover thier tracks and prevent anyone from following. The crew climbed onto some rafters to get an overview of the warehouse and scout possible locations for the book.
 

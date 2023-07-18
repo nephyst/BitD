@@ -8,9 +8,9 @@ A couple of `bluecoats` arrived. Sid answered the door and fumbled over his word
 
 Nyx stayed outside and kept watch for [[The Bluecoats]], or any other suspicious activity.
 
-A student at the party passed out. Sid and tael acted quickly, drawing the party goers into another part of the hosue where Sid put on a show using trick cards and dice. Sid sampled some Burnout and gave a performance that wowed the potential customers.
+A student at the party passed out. Sid and tael acted quickly, drawing the party goers into another part of the house where Sid put on a show using trick cards and dice. Sid sampled some Burnout and gave a performance that wowed the potential customers.
 
-Grey, who was given an invitation to the party by Professor Hornsby, showed up right as the student was passing out and helped Tesslyn bring him into the bathroom. Tess was able to find a professor that deduced the student was having a reaction to peanuts, which were being servered from the kitchen that evening. The professor put together a paste for the student.
+Grey, who was given an invitation to the party by Professor Hornsby, showed up right as the student was passing out and helped Tesslyn bring him into the bathroom. Tess was able to find a professor that deduced the student was having a reaction to peanuts, which were being severed from the kitchen that evening. The professor put together a paste for the student.
 
 Sid took watch outside, allowing Nyx to re-enter the party. Nyx took a dose of the drug and did a performance where a ghost, `Isambard Vulompkis` - the original owner of the house, was Compelled to appear and then commanded them to give a show and reveal a hidden room in the mansion.
 

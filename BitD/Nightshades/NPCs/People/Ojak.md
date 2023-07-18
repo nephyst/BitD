@@ -1,4 +1,4 @@
-A vice proveyor that deals in weird and exotic things located in [[Silkshore]].
+A vice purveyor that deals in weird and exotic things located in [[Silkshore]].
 
 [[Teal Templeton]] has been known to visit Ojak when stressed out to indugle his weirdness vice.
 
