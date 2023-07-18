@@ -24,4 +24,24 @@ The crew finds themselves in an oak hallway with red carpet. The walls are lined
 
 Nyx moves back just outside the doors and attemps to compell a ghost to help gather the cube. A bunch of crazy shit happens resulting in an immense commander appearing and decaying into an abomination in the center of the room.
 
+![[Commander Horror.png]]
+
 [[Sid Sage]] resists the presence of the commander and pulls a spirit bane charm. The commander fills the room with laughter and hucks a halberd at Sid, pinning him against the wall.
+
+[[Nyx Smoak]] compelled the commander, claiming to be one of the emperors concubines. The commander takes a step back and recalls his halberd, causing Sid to slump to the floor. The commander quickly demanded proof of Nyx's claims. Nyx tried to pass her fine jewlery off as gifts from the king, distracting the commander for a brief moment.
+
+[[Tesslyn Comber]] quickly jaunts over to the cube, snatching it. After missing a warning from the DM, Tess decides to do this using her bare hands. A desperate attmpt to resist the consequences sends Tess over the edge, while barely preventing her from falling into a trance.
+
+[[Sid Sage]] grabs a leather pouch from [[Teal Templeton]]'s pack, and uses it to secure the cube before grabbing [[Tesslyn Comber]] and heading for the exit. At the exit, he hucks the spiritbane charm at the commander and yells at Tess to run. Sid and Tess close the doors, leaving a small gap until Nyx makes it through and then slamming it shut.
+
+In the hallway [[Nyx Smoak]] sticks the ghost key in the first door, leading back to the office. The fireplace is lit, the inkwell on the desk holds a pen, and hot tea sits on a side table. The room is full of blood, and a dead body sits in the chair behind the desk. Another bloody corpse sits on the couch, and a dismembered servant has been spread accross the room.
+
+The crew quickly moves on.
+
+The ballroom is full of dead zombie ghosts, dancing with weapons. [[Teal Templeton]] quickly figures out the pattern and notices gaps forming a path. Everyone notices Teal and follows his lead, making it safely across the ballroom and back to the morgue.
+
+[[Teal Templeton]] pulls out his torch as soon as he spots the room is full of ghastly zombies, and torches one as it lunges at him. The torch ignites the cloth covering the corpse, scalding Teal and it falls on him. [[Sid Sage]], feeling empowered by the mirrored cube in his pocket, prowls up being another while it's distracted and plunges his cane sword into its shoulder. [[Nyx Smoak]] quickly pulls out some arcane substance, but she gets grappled by a corpse before acting. She quickly saves herself by commanding it to stand down and avoid harming her friends. [[Tesslyn Comber]] stabs the ramining corpse in the neck, but gets grappled and suffocates a bit before regaining control.
+
+The crew flees back to the door they used to enter the ghost realm, and heads back to Duskvol. After some time the crew makes it to the night market.
+
+The mirrored cube in [[Sid Sage]]'s pouch compells him to open the pouch and gaze into it's mirrors, pulling him into a trance. Before the crew notices, sid dissapears.
