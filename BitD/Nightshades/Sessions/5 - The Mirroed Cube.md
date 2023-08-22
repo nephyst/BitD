@@ -1,6 +1,6 @@
 The crew needs a supply of Ectonide to craft a batch of [[Go-Glo]].
 
-The crew visited [[Ojak]] in [[Silkshore]] and ask if he can supply ectonide, a key ingredient that [[Teal Templeton]] needs to craft [[Go-Glo]]. Ojak offers a free 1/3 barrel of ectonide and 6 coins if the crew agrees to collect a mirrored-cube artifact from [[Deathwall Citadel]], which is located in the ghost plane.
+The crew visited [[Ojak]] in [[Silkshore]] and ask if he can supply ectonide, a key ingredient that [[Teal Templeton]] needs to craft [[Go-Glo]]. Ojak offers a free 1/3 barrel of ectonide and 6 coins and an ongoing supply if the crew agrees to collect a mirrored-cube artifact from [[Deathwall Citadel]], which is located in the ghost plane.
 
 [[Nyx Smoak]] takes Ojak aside privately. Nyx asks about the giant spectal hands she saw in [[4 - Sailing Outside the Barrier]]. Ojak explains that they are known as [[The Giants]], and suggests that Nyx should consider that maybe the spectral entities might be helping rather than hurting.
 

@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightshades/Sessions/5 - The Mirroed Cube.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9499f91b2690de5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nightshades/Sessions/7.md",
+                "file": "Nightshades/NPCs/People/Elstera Avrathi.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightshades/Sessions/6.5 - A Heist out of Time!.md",
+                "file": "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975c39cac424ce9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nightshades/Sessions/7.md",
+                "file": "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nightshades/Sessions/7.md",
+                "file": "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nightshades/Sessions/7.md"
+                "file": "Nightshades/Sessions/7 - Raiding the Circle of Flame.md"
               }
             }
           }
@@ -179,34 +179,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9499f91b2690de5f",
+  "active": "975c39cac424ce9c",
   "lastOpenFiles": [
-    "Nightshades/NPCs/People/Elstera Avrathi.md",
-    "Nightshades/Sessions/7.md",
-    "Nightshades/Sessions/6.5 - A Heist out of Time!.md",
-    "2023-07-17.md",
-    "Untitled.canvas",
-    "Nightshades/Sessions/6 - Sid is missing.md",
     "Nightshades/Sessions/5 - The Mirroed Cube.md",
-    "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
-    "Nightshades/Sessions/3 - The Dockhouse.md",
-    "Nightshades/PCs/Tesslyn Comber.md",
-    "Nightshades/Drug$/Feel Good.md",
-    "Nightshades/Drug$/Go-Glo.md",
-    "Nightshades/Factions/The Bluecoats.md",
-    "Nightshades/Factions/The Crows.md",
-    "Nightshades/Factions/The Foghounds.md",
-    "Nightshades/Factions/The Ironborn Crew.md",
-    "Nightshades/Factions/The Hive.md",
-    "Nightshades/Factions/The Lampblacks.md",
-    "Nightshades/Factions/The Nightshades.md",
-    "Nightshades/Factions/The Red Sashes.md",
+    "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
+    "Nightshades/NPCs/People/Ojak.md",
+    "Nightshades/Sessions/6.5 - A Heist out of Time!.md",
+    "Nightshades/NPCs/People/Elstera Avrathi.md",
+    "The Centuralia Club.md",
+    "Nightshades/Sessions/2 - Imperial Building Techniques Vol. 1.md",
+    "Nightshades/Sessions/1 - Burnout.md",
+    "2023-07-17.md",
     "Nightshades/Locations/Charterhall University.md",
     "Nightshades/Locations/Deathwall Citadel.md",
     "Nightshades/Locations/Ilysia.md",
-    "Nightshades/Locations/The Dockhouse.md",
     "Nightshades/Locations/Silkshore.md",
     "Nightshades/Locations/The Lair.md",
+    "Nightshades/NPCs/Demons/Steve Grey.md",
+    "Nightshades/NPCs/Demons/Satara.md",
+    "Nightshades/Drug$/Burnout.md",
+    "Nightshades/Drug$/Go-Glo.md",
+    "Nightshades/Drug$/Feel Good.md",
+    "Nightshades/Factions/The Bluecoats.md",
+    "Nightshades/Factions/The Crows.md",
+    "Nightshades/Factions/The Hive.md",
+    "Nightshades/Factions/The Foghounds.md",
+    "Untitled.canvas",
+    "Nightshades/Sessions/6 - Sid is missing.md",
+    "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
+    "Nightshades/Sessions/3 - The Dockhouse.md",
     "Larry.png",
     "Commander Horror.png",
     "Nightshades/Drug$",
