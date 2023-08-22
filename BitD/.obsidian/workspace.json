@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "975c39cac424ce9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,12 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "975c39cac424ce9c",
+  "active": "dfe34c7525daa164",
   "lastOpenFiles": [
-    "Nightshades/Sessions/5 - The Mirroed Cube.md",
+    "Nightshades/Sessions/8 - What's next.md",
     "Nightshades/Sessions/7 - Raiding the Circle of Flame.md",
-    "Nightshades/NPCs/People/Ojak.md",
+    "Mr. Brickk.md",
+    "Nightshades/Sessions/5 - The Mirroed Cube.md",
+    "Nightshades/Drug$/Go-Glo.md",
+    "Nightshades/Locations/The Dockhouse.md",
+    "Nightshades/NPCs/Demons/Satara.md",
+    "Nightshades/Sessions/6 - Sid is missing.md",
     "Nightshades/Sessions/6.5 - A Heist out of Time!.md",
+    "Nightshades/NPCs/People/Ojak.md",
     "Nightshades/NPCs/People/Elstera Avrathi.md",
     "The Centuralia Club.md",
     "Nightshades/Sessions/2 - Imperial Building Techniques Vol. 1.md",
@@ -196,18 +190,12 @@
     "Nightshades/Locations/Silkshore.md",
     "Nightshades/Locations/The Lair.md",
     "Nightshades/NPCs/Demons/Steve Grey.md",
-    "Nightshades/NPCs/Demons/Satara.md",
     "Nightshades/Drug$/Burnout.md",
-    "Nightshades/Drug$/Go-Glo.md",
     "Nightshades/Drug$/Feel Good.md",
     "Nightshades/Factions/The Bluecoats.md",
     "Nightshades/Factions/The Crows.md",
     "Nightshades/Factions/The Hive.md",
-    "Nightshades/Factions/The Foghounds.md",
     "Untitled.canvas",
-    "Nightshades/Sessions/6 - Sid is missing.md",
-    "Nightshades/Sessions/4 - Sailing Outside the Barrier.md",
-    "Nightshades/Sessions/3 - The Dockhouse.md",
     "Larry.png",
     "Commander Horror.png",
     "Nightshades/Drug$",
