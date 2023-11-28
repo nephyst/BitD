@@ -2,7 +2,7 @@
 
 [[Sid Sage]] goes to take a sip of tea, and notices the tea cup flash in a similar way to the mirrored cube. Sid throws the cup into the wall smashing into, and then apologies profusely. [[Karim Smoak]] asks if he needed more tea, and Sid declines saying he should should probably call it good for the moment.
 
-[[Nyx Smoak]] asks [[Karim Smoak]] if he has heard [[The Giants]], and he explains it's a guiding entity trying to reshape the world as it sees fit. It's not as exciting as a demon, and the legends suggest its more of a keeper or guider and doesn't have much of a following.
+[[Nyx Smoak]] asks [[Karim Smoak]] if he has heard [[The Custodians]], and he explains it's a guiding entity trying to reshape the world as it sees fit. It's not as exciting as a demon, and the legends suggest its more of a keeper or guider and doesn't have much of a following.
 
 [[Sid Sage]] asks [[Miriam Blackwood]] about [[The Circle of Flame]] and [[Elstera Avrathi]]. Miriam knows of them, but doesn't think it's a good idea to bring this to them as it's pretty far above their pay grade. They meet at [[The Centuralia Club]], and often use demons and other nefarious means to gain power.
 
@@ -18,7 +18,7 @@ Engagement Roll:
 =+2 dice. Results were 3,3
 
 
-Nyx, Miriam, [[Mr. Brikk]], and [[Bad Penny]] approach the party in their disguises and present the invitations. The guards step back and start checking the guest list. Nyx name drops her uncle Karim, and complains that this is taking too long, and asks Mr. Brikk to resolve the situation. Mr. Brikk steps up and commands them to allow us to pass. The guards allow them to pass, but the guards make note of the group.
+Nyx, Miriam, [[Chantry Brikk]], and [[Bad Penny]] approach the party in their disguises and present the invitations. The guards step back and start checking the guest list. Nyx name drops her uncle Karim, and complains that this is taking too long, and asks Mr. Brikk to resolve the situation. Mr. Brikk steps up and commands them to allow us to pass. The guards allow them to pass, but the guards make note of the group.
 
 The crew makes their way inside. An orchestra plays while servants pass out refreshments. Everyone spreads out to prod for weaknesses. The direct route is heavily guarded, but the crew noticed a path that leads out of the way but should get them closer to the office. The guard is clearly falling asleep.
 
@@ -30,7 +30,7 @@ Mr. Brikk grabs the door handle, but Miriam attunes to the glowing mechanism on 
 
 [[Flashback]] to [[Nyx Smoak]] and [[Sid Sage]] visit [[Ojak]] to try and procure a mechanism to let the crew communicate while not being in the same space. Ojak offers a discount of just 2 coins for a higher quality device. The crew gains access to sending stones. The sending stone allows the user to communicate a whispered message to every crew members by taking 1 stress and 1 loadout.
 
-At the same moment that Mr. Brikk grabs the door handle, [[Nyx Smoak]] broadcasts a message to the crew saying "What the hell is going on?". [[Mr. Brikk]] pulls out his stone and responds asking for Nyx to join them.
+At the same moment that Mr. Brikk grabs the door handle, [[Nyx Smoak]] broadcasts a message to the crew saying "What the hell is going on?". [[Chantry Brikk]] pulls out his stone and responds asking for Nyx to join them.
 
 [[Nyx Smoak]] shows up a couple minutes later, and quickly attunes to the trap wedged in the door frame. Nyx realizes the trap has already been set off, and in a panic asks how long ago it was sprung. In response Mr. Brikk kicks the door down, and shrugs. Nyx, also in a panic, compels a ghost - but only manages to summon a very small spirit. [[Nyx Smoak]] asks the spirit to try and scare anyone else to shows up away.
 
@@ -56,4 +56,4 @@ Nyx asks a dock worker to borrow an outfit, but the dock worker declines. Mr. Br
 
 Satara enters Nyx's body and says she will be back shortly. Nyx has no knowledge of what happens during this time. Mr. Brickk tails Nyx, and sees her meet with some cultists along with some bluecoats scouting somewhere nearby. My. Brickk resists the urge to alert the bluecoats nearby. They end up back at the Dockhouse, and Satara returns Nyx's body to her.
 
-The crew delivers the cube to Ojak, securing a payment of 6 crews.
+The crew delivers the cube to Ojak, securing a payment of 6 coins.

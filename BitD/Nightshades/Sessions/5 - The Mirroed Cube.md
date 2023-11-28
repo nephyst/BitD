@@ -2,7 +2,7 @@ The crew needs a supply of Ectonide to craft a batch of [[Go-Glo]].
 
 The crew visited [[Ojak]] in [[Silkshore]] and ask if he can supply ectonide, a key ingredient that [[Teal Templeton]] needs to craft [[Go-Glo]]. Ojak offers a free 1/3 barrel of ectonide and 6 coins and an ongoing supply if the crew agrees to collect a mirrored-cube artifact from [[Deathwall Citadel]], which is located in the ghost plane.
 
-[[Nyx Smoak]] takes Ojak aside privately. Nyx asks about the giant spectal hands she saw in [[4 - Sailing Outside the Barrier]]. Ojak explains that they are known as [[The Giants]], and suggests that Nyx should consider that maybe the spectral entities might be helping rather than hurting.
+[[Nyx Smoak]] takes Ojak aside privately. Nyx asks about the giant spectal hands she saw in [[4 - Sailing Outside the Barrier]]. Ojak explains that they are known as [[The Custodians]], and suggests that Nyx should consider that maybe the spectral entities might be helping rather than hurting.
 
 Nyx explains to the crew that we have to enter the ghost plane, which is going to be a mirror of Duskvol, before using the ghost key to open the portal. The crew finds themselves at the giant oak doors marking the entrance to [[Deathwall Citadel]]. Located in a dry arid land, populated sparsely by dead trees. In the distance a wall of sparks marks Duskvol.
 

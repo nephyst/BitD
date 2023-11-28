@@ -5,3 +5,5 @@ A vice purveyor that deals in weird and exotic things located in [[Silkshore]] c
 [[Sid Sage]] and [[Nyx Smoak]] met Ojak in [[4 - Sailing Outside the Barrier]] when they were looking for a demon flatigator.
 
 In [[5 - The Mirroed Cube]] the crew asked Ojak if he could supply Ectonide, a key ingrediant for [[Go-Glo]].
+
+Ojak provided the decoy artifact in [[11 - Adikin and the Museum Heist]].
